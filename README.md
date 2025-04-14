@@ -89,7 +89,7 @@ The MES1_cli.py provides an interactive interface for all MES1 features:
 
 MES1 uses a structured format for encrypted data:
 ```
-[HEADER][HEADER_SEPARATOR][ENCRYPTED BODY][FILE_END_MARKER][FOOTER]
+[HEADER][ENCRYPTED BODY][FOOTER]
 ```
 
 - **Header**: Contains file metadata (encryption settings, salt, compression)
