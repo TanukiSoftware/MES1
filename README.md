@@ -134,7 +134,7 @@ Note that this feature is not tested. Files might not be compressed. Tests has s
 
 ## Terms of Use
 
-This encryption protocol is provided "as is" without any warranties. This encryption protocol is open source and publicly accessible, any commercial use must credit the author: [Krono159](https://github.com/Krono159) and/or [TanukiSoftware](https://github.com/TanukiSoftware/).
+This encryption protocol is provided "as is" without any warranties. This encryption protocol is open source and publicly accessible, any commercial use must credit the author: [Krono159](https://github.com/Krono159) and/or [TanukiCompany](https://github.com/TanukiCompany/).
 
 The project is maintained by TanukiSoftware. This protocol is intended for lawful purposes only. TanukiSoftware and Krono159 are not responsible for any misuse, damage, or data loss.
 
